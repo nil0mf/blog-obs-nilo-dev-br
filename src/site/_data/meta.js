@@ -115,7 +115,7 @@ module.exports = async (data) => {
     noteIconsSettings,
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
-    siteName: process.env.SITE_NAME_HEADER || "Nilo Notes",
+    siteName: "Notas do Nilo",
     siteLogoPath: logoPath,
     logoHeight,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
