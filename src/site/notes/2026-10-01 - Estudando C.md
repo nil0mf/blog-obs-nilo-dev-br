@@ -3,3 +3,7 @@
 ---
 
 Hoje estou no computador, estou estudando C, ponteiros. 
+
+Estou escrevendo um código que reajusta o valor de uma variável em 20% usando ponteiros.
+
+(agora preciso ir pro trabalho kkk)
