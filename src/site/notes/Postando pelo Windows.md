@@ -4,4 +4,3 @@
 
 Postarei aqui pelo Windows as coisas que aprendo...Quando estiver estudando, para fixar e deixar registrado.
 
-2026-09-29
