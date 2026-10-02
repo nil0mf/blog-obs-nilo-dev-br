@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-09-29-ads-ead-na-uva/","title":"2026-09-29 - ADS EAD na UVA","tags":["geral","notas","introducao","ads","uva","ead"],"dg-note-properties":{"title":"2026-09-29 - ADS EAD na UVA","created":"2026-09-29","tags":["geral","notas","introducao","ads","uva","ead"]}}
+{"dg-publish":true,"permalink":"/2026-09-29-ads-ead-na-uva/","title":"2026-09-29 - ADS EAD na UVA","tags":["geral","notas","introducao","ads","uva","ead"],"created":"2026-09-29T11:15:07.485-03:00","dg-note-properties":{"title":"2026-09-29 - ADS EAD na UVA","created":"2026-09-29","tags":["geral","notas","introducao","ads","uva","ead"]}}
 ---
 
 Estou adorando cursar Análise e desenvolvimento de sistemas EAD na UVA. Terminei meu segundo grau em 2002 e de lá pra cá infelizmente não busquei uma graduação pra mim. Hoje com 44 anos estou cursando essa especialização e estou muito feliz. 
