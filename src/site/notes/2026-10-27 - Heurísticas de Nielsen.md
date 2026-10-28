@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-10-27-heuristicas-de-nielsen/","title":"2026-10-27 - Heurísticas de Nielsen","tags":["geral","notas","uva","ads","frontend","heurísticas","nielsen"],"noteIcon":"","created":"2026-10-27T17:53:09.584-03:00","updated":"2026-10-27T17:56:13.997-03:00","dg-note-properties":{"title":"2026-10-27 - Heurísticas de Nielsen","created":{"{ date:YYYY-MM-DD }":null},"tags":["geral","notas","uva","ads","frontend","heurísticas","nielsen"]}}
+{"dg-publish":true,"permalink":"/2026-10-27-heuristicas-de-nielsen/","title":"2026-10-27 - Heurísticas de Nielsen","tags":["geral","notas","uva","ads","frontend","heurísticas","nielsen"],"noteIcon":"","created":"2026-10-27T17:53:09.584-03:00","updated":"2026-10-27T21:22:45.665-03:00","dg-note-properties":{"title":"2026-10-27 - Heurísticas de Nielsen","created":{"{ date:YYYY-MM-DD }":null},"tags":["geral","notas","uva","ads","frontend","heurísticas","nielsen"]}}
 ---
 
 Um pequeno trabalho da faculdade sobre as dez heurísticas de Nielsen
@@ -8,10 +8,6 @@ Um pequeno trabalho da faculdade sobre as dez heurísticas de Nielsen
 A usabilidade de interfaces digitais é um fator determinante para o sucesso ou fracasso de sistemas de software no cenário atual. Muitas vezes a frustração do usuário ao interagir com uma aplicação decorre da não observância de princípios fundamentais de design de interação, que deveriam guiar a arquitetura de informação e os fluxos de navegação de forma intuitiva.
 
 Segundo Sommerville (2007), a usabilidade define a facilidade com que um usuário aprende a operar uma interface e a eficácia com que consegue realizar suas tarefas. Para sistematizar essa avaliação, Jakob Nielsen e Rolf Molich desenvolveram o conceito de avaliação heurística, constituindo um conjunto de "regras de ouro" empíricas voltadas à identificação e correção de falhas de usabilidade (NIELSEN; MOLICH, 1990).
-
-## 1.1 Objetivos do trabalho
-
-Este trabalho tem por objetivo analisar as dez heurísticas de usabilidade de Nielsen, explorando sua aplicação teórica e prática em sistemas digitais modernos. Busca-se demonstrar como a implementação desses princípios eleva a satisfação e a eficiência do usuário final.
 
 A avaliação heurística configura-se como um método de inspeção em que especialistas examinam a interface em relação a diretrizes consolidadas. Como apontam Rogers, Sharp e Preece (2013, p. 507):
 
